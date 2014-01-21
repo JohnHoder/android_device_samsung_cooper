@@ -1,0 +1,14 @@
+#
+# system.prop for GT-S5830
+#
+
+# Dalvik
+dalvik.vm.heapgrowthlimit=24m
+dalvik.vm.heapsize=64m
+dalvik.vm.heapstartsize=5m
+
+# Graphics
+ro.sf.lcd_density=160
+
+#no boot animation
+debug.sf.nobootanimation=1
