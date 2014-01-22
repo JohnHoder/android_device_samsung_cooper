@@ -22,7 +22,8 @@
 BOARD_WLAN_DEVICE := ath6kl_compat
 
 PRODUCT_PACKAGES += \
-    Torch
+    Torch \
+    KitKatWhite
 
 ## Ramdisk
 PRODUCT_COPY_FILES += \
